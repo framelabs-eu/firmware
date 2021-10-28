@@ -2,6 +2,12 @@
 For instructions on how to flash the firmware, see the according section in the [handbook](https://framelabs.eu/firmware-update).
 
 # Changelog
+
+## 1.5.2
+* Add option to choose between reduction of ghosting (default) or longer battery life
+* Send info about desired orientation when fetching images
+* for 6" ArtFrames use 1.5.2b (functionally equivalent to 1.5.2)
+
 ## 1.5
 * Show thumbnails for uploaded pictures in web interface
 * Improved performance of picture processing during uploads
