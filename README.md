@@ -3,6 +3,11 @@ For instructions on how to flash the firmware, see the according section in the 
 
 # Changelog
 
+## 1.5.4
+* Stability fixes for the web interface
+* Fix bug where button could not be used to leave configuration mode
+* Add dedicated error message for server timeout in WiFi mode
+
 ## 1.5.2
 * Add option to choose between reduction of ghosting (default) or longer battery life
 * Send info about desired orientation when fetching images
