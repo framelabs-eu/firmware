@@ -3,6 +3,9 @@ For instructions on how to flash the firmware, see the according section in the 
 
 # Changelog
 
+## 1.5.5-beta
+* Fix a bug where the WiFi would try to connect indefinitely
+
 ## 1.5.4
 * Stability fixes for the web interface
 * Fix bug where button could not be used to leave configuration mode
