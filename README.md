@@ -3,13 +3,22 @@ For instructions on how to flash the firmware, see the according section in the 
 
 ⓘ  Don't try to flash the *.zip directly. Flash the *.bin!
 
+# Latest firmware for each device type
+* 6" HD, 9.7" 13.3" Artframe: [1.6-beta](ArtFrame-Firmware-1.6-beta.zip?raw=1)
+* 31.2" Artframe: [1.6-XL-beta](ArtFrame-Firmware-1.6-XL-beta.zip?raw=1)
+* non-HD 6" ArtFrame: [1.5.2b](ArtFrame-Firmware-1.5.2b.zip?raw=1)
+
 # Changelog
 
-## 1.5.6
+## 1.6-beta
+* Fix WiFi error when exiting Configuration Mode in Mode "Remote"
 * Improve performance for devices in mode "Remote" and repaint mode "Reduce ghosting"
 * Fix bug where "Server timeout" would appear in mode "Remote", because the HTTP connection would not be closed
     * Respect the "Content-Length" header
     * Don't send "Connection: keep-alive" header
+* **XL:** Stability fixes for display initialization
+* **XL:** Increased internal display communication performance
+* **XL:** Fixed bug in "Remote" Mode where no image was displayed
 
 ## 1.5.5
 * Fix a bug where the WiFi would try to connect indefinitely
@@ -22,7 +31,6 @@ For instructions on how to flash the firmware, see the according section in the 
 ## 1.5.2
 * Add option to choose between reduction of ghosting (default) or longer battery life
 * Send info about desired orientation when fetching images
-* for 6" ArtFrames use 1.5.2b (functionally equivalent to 1.5.2)
 
 ## 1.5
 * Show thumbnails for uploaded pictures in web interface
