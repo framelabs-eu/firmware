@@ -1,7 +1,7 @@
 # ArtFrame Firmware
 For instructions on how to flash the firmware, see the according section in the [handbook](https://framelabs.eu/firmware-update).
 
-ⓘ  Don't try to flash the *.zip directly. Flash the *.bin!
+⚠ Don't try to flash the *.zip directly. Flash the *.bin!
 
 # Latest firmware for each device type
 * 6" HD, 9.7" 13.3" Artframe: [1.6-beta](ArtFrame-Firmware-1.6-beta.zip?raw=1)
