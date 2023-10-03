@@ -6,6 +6,7 @@ For instructions on how to flash the firmware, see the according section in the 
 # Latest firmware for each device type
 * 6" HD, 9.7" 13.3" Artframe: [1.6-beta](ArtFrame-Firmware-1.6-beta.zip?raw=1)
 * 31.2" Artframe: [1.6-XL-beta](ArtFrame-Firmware-1.6-XL-beta.zip?raw=1)
+* 10.3" HD ArtFrame: [1.6M-beta](ArtFrame-Firmware-1.6M-beta.zip?raw=1)
 * non-HD 6" ArtFrame: [1.5.2b](ArtFrame-Firmware-1.5.2b.zip?raw=1)
 
 # Changelog
