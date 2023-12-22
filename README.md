@@ -4,12 +4,16 @@ For instructions on how to flash the firmware, see the according section in the 
 ⚠ Don't try to flash the *.zip directly. Flash the *.bin!
 
 # Latest firmware for each device type
-* 6" HD, 9.7", 13.3" Artframe: [1.6-beta](ArtFrame-Firmware-1.6-beta.zip?raw=1)
+* 6" HD, 9.7", 13.3" Artframe: [1.6.1](ArtFrame-Firmware-1.6.1.zip?raw=1)
 * 31.2" Artframe: [1.6-XL-beta](ArtFrame-Firmware-1.6-XL-beta.zip?raw=1)
-* 10.3" HD ArtFrame: [1.6M-beta](ArtFrame-Firmware-1.6M-beta.zip?raw=1)
+* 10.3" HD ArtFrame: [1.6.1M](ArtFrame-Firmware-1.6.1M.zip?raw=1)
 * non-HD 6" ArtFrame: [1.5.2b](ArtFrame-Firmware-1.5.2b.zip?raw=1)
 
 # Changelog
+
+## 1.6.1
+* Increase reliability of connection establishment to an existing WiFi
+    * Increase timeout
 
 ## 1.6-beta
 * Fix WiFi error when exiting Configuration Mode in WiFi mode
