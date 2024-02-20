@@ -4,12 +4,15 @@ For instructions on how to flash the firmware, see the according section in the 
 ⚠ Don't try to flash the *.zip directly. Flash the *.bin!
 
 # Latest firmware for each device type
-* 6" HD, 9.7", 13.3" Artframe: [1.6.2](ArtFrame-Firmware-1.6.2.zip?raw=1)
-* 31.2" Artframe: [1.6.2XL](ArtFrame-Firmware-1.6.2XL.zip?raw=1)
-* 10.3" HD ArtFrame: [1.6.2M](ArtFrame-Firmware-1.6.2M.zip?raw=1)
+* 6" HD, 9.7", 13.3" Artframe: [1.6.3](ArtFrame-Firmware-1.6.3.zip?raw=1)
+* 31.2" Artframe: [1.6.3XL](ArtFrame-Firmware-1.6.3XL.zip?raw=1)
+* 10.3" HD ArtFrame: [1.6.3M](ArtFrame-Firmware-1.6.3M.zip?raw=1)
 * non-HD 6" ArtFrame: [1.5.2b](ArtFrame-Firmware-1.5.2b.zip?raw=1)
 
 # Changelog
+
+## 1.6.3
+* Fix regression in feature to remotely change sleep time in WiFi mode
 
 ## 1.6.2
 * Add option to shuffle the file display order
