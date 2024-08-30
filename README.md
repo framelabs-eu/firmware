@@ -1,13 +1,11 @@
 # ArtFrame Firmware
 For instructions on how to flash the firmware, see the according section in the [handbook](https://framelabs.eu/firmware-update).
 
-⚠ Don't try to flash the *.zip directly. Flash the *.bin!
-
 # Latest firmware for each device type
-* 6" HD, 9.7", 13.3" Artframe: [1.6.3](ArtFrame-Firmware-1.6.3.zip?raw=1)
-* 31.2" Artframe: [1.6.3XL](ArtFrame-Firmware-1.6.3XL.zip?raw=1)
-* 10.3" HD ArtFrame: [1.6.3M](ArtFrame-Firmware-1.6.3M.zip?raw=1)
-* non-HD 6" ArtFrame: [1.5.2b](ArtFrame-Firmware-1.5.2b.zip?raw=1)
+* 6" HD, 9.7", 13.3" Artframe: [1.6.3](ArtFrame-Firmware-1.6.3.bin?raw=1)
+* 31.2" Artframe: [1.6.3XL](ArtFrame-Firmware-1.6.3XL.bin?raw=1)
+* 10.3" HD ArtFrame: [1.6.3M](ArtFrame-Firmware-1.6.3M.bin?raw=1)
+* non-HD 6" ArtFrame: [1.5.2b](ArtFrame-Firmware-1.5.2b.bin?raw=1)
 
 # Changelog
 
