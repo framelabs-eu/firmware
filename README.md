@@ -9,6 +9,14 @@ For instructions on how to flash the firmware, see the according section in the 
 
 # Changelog
 
+## 1.6.6
+* Increase configuration interface performance and reliability
+    * Add upload progress bars
+    * Load thumbnails sequentially
+* Performance fixes
+    * Faster shuffle algorithm
+* Remove all write operations on flash memory during normal lifecycle
+
 ## 1.6.3
 * Fix regression in feature to remotely change sleep time in WiFi mode
 
