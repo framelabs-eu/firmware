@@ -9,6 +9,9 @@ For instructions on how to flash the firmware, see the according section in the 
 
 # Changelog
 
+## 1.6.8
+* Remove "PREVIEW" indicator text during image preview
+
 ## 1.6.6
 * Increase configuration interface performance and reliability
     * Add upload progress bars
